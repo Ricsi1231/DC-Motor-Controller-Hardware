@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=MCU_PROG_TX Pin=D1301-29
+Removed Pin From Net: NetName=MCU_PROG_TX Pin=D1301-29
+Removed Pin From Net: NetName=GND Pin=D1301-38
+Removed Pin From Net: NetName=GND Pin=D1301-38
+Removed Pin From Net: NetName=MCU_PROG_ENABLE Pin=D1301-47
+Removed Pin From Net: NetName=MCU_PROG_ENABLE Pin=D1301-47
+Removed Pin From Net: NetName=MCU_PROG_RX Pin=D1301-56
+Removed Pin From Net: NetName=MCU_PROG_RX Pin=D1301-56
+Removed Pin From Net: NetName=MCU_PROG_GPIO0 Pin=D1301-110
+Removed Pin From Net: NetName=MCU_PROG_GPIO0 Pin=D1301-110
+Removed Member From Class: ClassName=Interface - Programmer Member=D1301

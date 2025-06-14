@@ -1,0 +1,9 @@
+Added Component: Designator=J1201(629105150521)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/Wurth-Elektronik/629105150521?qs=a9WhcLg8qCzXiH7kZP8GRQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "629105150521"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5V_USB Pin=J1201-1
+Added Pin To Net: NetName=USB_D_N Pin=J1201-2
+Added Pin To Net: NetName=USB_D_P Pin=J1201-3
+Added Pin To Net: NetName=GND Pin=J1201-5
+Added Member To Class: ClassName=Interface - USB-C Member=Component J1201 629105150521

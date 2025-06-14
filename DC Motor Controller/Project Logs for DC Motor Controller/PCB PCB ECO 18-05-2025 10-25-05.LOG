@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=HAL_MCU_B Pin=U601-38
+Removed Pin From Net: NetName=HAL_MCU_A Pin=U601-39
+Added Pin To Net: NetName=HAL_MCU_A Pin=U601-38
+Added Pin To Net: NetName=HAL_MCU_B Pin=U601-39

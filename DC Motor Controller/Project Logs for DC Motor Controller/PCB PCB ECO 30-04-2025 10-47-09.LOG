@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=MOSFET_TEMP Pin=D901-A
+Added Pin To Net: NetName=+3V3 Pin=D901-K
+Added Pin To Net: NetName=MOTOR_TEMP Pin=D902-A
+Added Pin To Net: NetName=+3V3 Pin=D902-K

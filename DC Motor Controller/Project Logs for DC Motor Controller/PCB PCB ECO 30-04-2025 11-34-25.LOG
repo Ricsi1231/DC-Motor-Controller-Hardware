@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOSFET_TEMP Pin=U601-18
+Removed Pin From Net: NetName=MOTOR_TEMP Pin=U601-19
+Added Pin To Net: NetName=MOTOR_TEMP Pin=U601-18
+Added Pin To Net: NetName=MOSFET_TEMP Pin=U601-19

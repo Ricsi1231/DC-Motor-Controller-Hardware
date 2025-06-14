@@ -1,0 +1,6 @@
+Added Component: Designator=U?(MSOP-10)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "CH340E"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=USB_FS_D_P Pin=U?-1
+Added Pin To Net: NetName=USB_FS_D_N Pin=U?-2
+Added Member To Class: ClassName=Interface - USB-C Member=Component U? CH340E

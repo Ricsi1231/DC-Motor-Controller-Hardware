@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=MOTOR_NFAULT Pin=U601-28
+Added Pin To Net: NetName=MOTOR_NFAULT Pin=U601-6
+Added Member To Class: ClassName=MCU - Power and I_O Member=Component U601 ESP32-S3-WROOM-1-N4

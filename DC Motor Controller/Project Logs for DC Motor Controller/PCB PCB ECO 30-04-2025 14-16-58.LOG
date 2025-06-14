@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOTOR_IN2 Pin=U601-6
+Added Component: Designator=S1503(Screw M3)
+Added Pin To Net: NetName=MOTOR_IN2 Pin=U601-4
+Added Member To Class: ClassName=Misc - Holes, Fiducials Member=Component S1503 Screw M3

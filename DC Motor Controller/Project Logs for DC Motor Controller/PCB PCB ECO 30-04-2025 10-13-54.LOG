@@ -1,0 +1,10 @@
+Add Pin To Net: Unknown Pin: Pin D901-A
+Add Pin To Net: Unknown Pin: Pin D901-K
+Add Pin To Net: Unknown Pin: Pin D902-A
+Add Pin To Net: Unknown Pin: Pin D902-K
+Added Pin To Net: NetName=HAL_MCU_A Pin=D1005-A
+Added Pin To Net: NetName=+3V3 Pin=D1005-K
+Added Pin To Net: NetName=HAL_MCU_B Pin=D1006-A
+Added Pin To Net: NetName=+3V3 Pin=D1006-K
+Added Pin To Net: NetName=HAL_MCU_C Pin=D1007-A
+Added Pin To Net: NetName=+3V3 Pin=D1007-K

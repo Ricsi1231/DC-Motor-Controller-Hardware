@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MCU_RGB_RED Pin=U601-20
+Removed Pin From Net: NetName=MCU_RGB_BLUE Pin=U601-22
+Added Pin To Net: NetName=MCU_RGB_BLUE Pin=U601-20
+Added Pin To Net: NetName=MCU_RGB_RED Pin=U601-22

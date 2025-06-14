@@ -1,0 +1,29 @@
+Change Component Footprint: Designator=C406 Old Footprint=CAP_1210 New Footprint=CAP_0805
+Change Component Footprint: Designator=C407 Old Footprint=CAP_1210 New Footprint=CAP_0805
+Change component parameters: Designator = "C406" ("C406"); Footprint = "CAP_1210"; UniqueID = "\XEYPYLOS" ("\XEYPYLOS")
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "C407" ("C407"); Footprint = "CAP_1210"; UniqueID = "\RZRVTFDX" ("\RZRVTFDX")
+Change component parameters (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D901-A
+Add Pin To Net: Unknown Pin: Pin D901-K
+Add Pin To Net: Unknown Pin: Pin D902-A
+Add Pin To Net: Unknown Pin: Pin D902-K
+Add Pin To Net: Unknown Pin: Pin D1005-A
+Add Pin To Net: Unknown Pin: Pin D1005-K
+Add Pin To Net: Unknown Pin: Pin D1006-A
+Add Pin To Net: Unknown Pin: Pin D1006-K
+Add Pin To Net: Unknown Pin: Pin D1007-A
+Add Pin To Net: Unknown Pin: Pin D1007-K
+Added Member To Class: ClassName=Power Generation - Buck Converter Member=Component C401 2u2 100V X7R
+Added Member To Class: ClassName=Power Generation - Buck Converter Member=Component C402 2u2 100V X7R
+Added Member To Class: ClassName=Power Generation - Buck Converter Member=Component C403 2u2 100V X7R

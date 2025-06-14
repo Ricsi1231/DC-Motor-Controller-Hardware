@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=GND Pin=D1001-A
+Removed Pin From Net: NetName=+5V Pin=D1001-K
+Removed Member From Class: ClassName=Sensing - Position Member=D1001

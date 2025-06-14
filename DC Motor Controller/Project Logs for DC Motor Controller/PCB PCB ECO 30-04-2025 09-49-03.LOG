@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=C401-1
+Removed Pin From Net: NetName=+VIN Pin=C401-2
+Removed Pin From Net: NetName=GND Pin=C402-1
+Removed Pin From Net: NetName=+VIN_FILT Pin=C402-2
+Removed Pin From Net: NetName=GND Pin=C403-1
+Removed Pin From Net: NetName=+VIN_FILT Pin=C403-2
+Added Component: Designator=C401(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C402(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=C403(CAP_0805)
+Add component (AddParameter): Name = "Dielectric"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rating"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C401-1
+Added Pin To Net: NetName=+VIN Pin=C401-2
+Added Pin To Net: NetName=GND Pin=C402-1
+Added Pin To Net: NetName=+VIN_FILT Pin=C402-2
+Added Pin To Net: NetName=GND Pin=C403-1
+Added Pin To Net: NetName=+VIN_FILT Pin=C403-2
+Add Pin To Net: Unknown Pin: Pin D901-A
+Add Pin To Net: Unknown Pin: Pin D901-K
+Add Pin To Net: Unknown Pin: Pin D902-A
+Add Pin To Net: Unknown Pin: Pin D902-K
+Add Pin To Net: Unknown Pin: Pin D1005-A
+Add Pin To Net: Unknown Pin: Pin D1005-K
+Add Pin To Net: Unknown Pin: Pin D1006-A
+Add Pin To Net: Unknown Pin: Pin D1006-K
+Add Pin To Net: Unknown Pin: Pin D1007-A
+Add Pin To Net: Unknown Pin: Pin D1007-K

@@ -1,0 +1,40 @@
+Added Component: Designator=U601(ESP32-S3-WROOM-1)
+Add component (AddParameter): Name = "Distributor Link"; Value = "https://www.mouser.de/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N4?qs=Li%252BoUPsLEnsO%2FkiJOUK0FQ%3D%3D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Espressif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ESP32-S3-WROOM-1-N4"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U601-1
+Added Pin To Net: NetName=+3V3 Pin=U601-2
+Added Pin To Net: NetName=MCU_PROG_ENABLE Pin=U601-3
+Added Pin To Net: NetName=MOTOR_IN2 Pin=U601-4
+Added Pin To Net: NetName=MOTOR_IN1 Pin=U601-5
+Added Pin To Net: NetName=MOTOR_NSLEEP Pin=U601-7
+Added Pin To Net: NetName=RS485_DE Pin=U601-8
+Added Pin To Net: NetName=RS485_NRE Pin=U601-9
+Added Pin To Net: NetName=RS485_DP_P Pin=U601-10
+Added Pin To Net: NetName=RS485_DP_N Pin=U601-11
+Added Pin To Net: NetName=VSENSE_IN Pin=U601-12
+Added Pin To Net: NetName=USB_FS_D_P Pin=U601-13
+Added Pin To Net: NetName=USB_FS_D_N Pin=U601-14
+Added Pin To Net: NetName=MOTOR_TEMP Pin=U601-18
+Added Pin To Net: NetName=MOSFET_TEMP Pin=U601-19
+Added Pin To Net: NetName=MCU_RGB_RED Pin=U601-20
+Added Pin To Net: NetName=MCU_RGB_GREEN Pin=U601-21
+Added Pin To Net: NetName=MCU_RGB_BLUE Pin=U601-22
+Added Pin To Net: NetName=MCU_PROG_GPIO0 Pin=U601-27
+Added Pin To Net: NetName=MOTOR_NFAULT Pin=U601-28
+Added Pin To Net: NetName=HAL_MCU_A Pin=U601-29
+Added Pin To Net: NetName=HAL_MCU_B Pin=U601-30
+Added Pin To Net: NetName=HAL_MCU_C Pin=U601-31
+Added Pin To Net: NetName=MCU_PROG_RX Pin=U601-36
+Added Pin To Net: NetName=MCU_PROG_TX Pin=U601-37
+Added Pin To Net: NetName=GND Pin=U601-40
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Pin To Net: NetName=GND Pin=U601-EP
+Added Member To Class: ClassName=MCU - Power and I_O Member=Component U601 ESP32-S3-WROOM-1-N4

@@ -1,0 +1,12 @@
+Change Component Comment : Designator=R402 Old Comment=10k 1% New Comment=4k7 1%
+Change Component Comment : Designator=R404 Old Comment=10k 1% New Comment=4k7 1%
+Change Component Comment : Designator=R403 Old Comment=10k 1% New Comment=52k3 1%
+Change Component Comment : Designator=R401 Old Comment=10k 1% New Comment=140k 1%
+Added Component: Designator=R704(RES_0402)
+Add component (AddParameter): Name = "Distributor Link"; Value = "www.lcsc.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = "C427247"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PANASONIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "ERJPA2F1002X"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MOTOR_PMODE Pin=R704-1
+Added Pin To Net: NetName=+3V3 Pin=R704-2
+Added Member To Class: ClassName=Motor - Motor Control Member=Component R704 10k 1%
