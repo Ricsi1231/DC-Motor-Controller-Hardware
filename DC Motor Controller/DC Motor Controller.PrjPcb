@@ -271,7 +271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=XQDYGUXL
 
 [Document14]
-DocumentPath=Interface - USB-C.SchDoc
+DocumentPath=Schematic\Interface - USB-C.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -285,7 +285,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=AIJPJKTS
+DocumentUniqueId=
 
 [Document15]
 DocumentPath=Schematic\Interface - Programmer.SchDoc
